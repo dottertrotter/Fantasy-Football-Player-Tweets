@@ -1,0 +1,58 @@
+/* FONT STACK */
+body{
+    padding:0px;
+    margin:0px;
+    background:url('../images/carbon_fibre.png');
+}
+
+body,
+input, select, textarea {
+	font-family: 'Josefin Sans', sans-serif;
+	color:#020304;
+}
+
+a{
+    color:#020304;
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+.design-container{
+    border:solid 1px #626266;
+    margin:20px;
+    padding:0px;
+}
+
+.container{
+    padding:20px;
+    margin:0;
+    background:#fff;
+}
+
+h1{
+    background:#020304;
+    margin:0;
+    padding:0 0 0 20px;
+    color:#fff;
+    line-height:60px;
+}
+
+.main-list{
+    padding:0px;
+    margin:0px;
+    float:left;
+    width:33%;
+}
+
+.main-list li{
+    list-style-type:none;
+    padding:5px 0px;
+}
+
+.main-list li h2{
+    margin:0px;
+    padding:0px;
+}
